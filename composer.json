@@ -1,0 +1,19 @@
+{
+    "name": "tyhpdef/spatie-laravel-flare",
+    "description": "Tyhp type definitions for spatie/laravel-flare 1.1.2.",
+    "type": "metapackage",
+    "license": "Apache-2.0",
+    "version": "1.1.2",
+    "keywords": [
+        "dev",
+        "static analysis"
+    ],
+    "require": {
+        "tyhpdef/spatie-laravel-flare-impl": "~1.1.2.0"
+    },
+    "extra": {
+        "tyhp": {
+            "impl": "tyhpdef/spatie-laravel-flare-impl"
+        }
+    }
+}
