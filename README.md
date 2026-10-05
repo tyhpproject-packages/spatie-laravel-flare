@@ -1,10 +1,10 @@
 <!-- tyhp-readme:start -->
 # tyhpdef/spatie-laravel-flare
 
-Tyhp type definitions for `spatie/laravel-flare` `1.1.2`.
+Tyhp type definitions for `spatie/laravel-flare` `2.8.0`.
 
 ```bash
-composer require --dev tyhpdef/spatie-laravel-flare:1.1.2
+composer require --dev tyhpdef/spatie-laravel-flare:2.8.0
 ```
 
 This is a metapackage. Composer also installs `tyhpdef/spatie-laravel-flare-impl` (type files).
